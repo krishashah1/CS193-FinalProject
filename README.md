@@ -12,7 +12,7 @@ When I go on trips with my family and friends, I usually keep track of all my mo
 - User input is appended to the CSV file 
 - File is read and remaining budget is calculated and then printed out
 
-[System diagram](docs/diagram.png)
+[System diagram](docs/systemdiagram.pdf)
 
 ## Tech Stack
 
